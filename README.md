@@ -1,0 +1,1 @@
+# locast_opensearch
